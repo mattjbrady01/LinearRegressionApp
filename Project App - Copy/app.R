@@ -5,6 +5,7 @@ require(shinydashboard)
 library(shinycssloaders)
 library(shinya11y)
 library(plotly)
+runGitHub("LinearRegressionApp", "mattjbrady01")
 
 
 ui <- {dashboardPage(
